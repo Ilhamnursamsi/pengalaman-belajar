@@ -10,4 +10,14 @@ Pengenalan ke Logika Pemrograman 101
 * Belajar Gerbang Logika  
 * Logika Komputasional  
 * Deduktif & Induktif  
-  
+
+**22 Agustus 2026**  
+Belajar Dasar Git dengan Github  
+* Persiapan Belajar
+* Git dan Github
+* Dasar Git
+* Studi Kasus Pengalaman Belajar
+* Git Branches
+* Kolaborasi dengan Tim
+* Studi Kasus Kolaborasi dengan Tim
+* Github Sebagai Portofolio
